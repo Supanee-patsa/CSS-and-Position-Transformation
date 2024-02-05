@@ -4,6 +4,13 @@ body {
 }
 .main-title {
     color: #2F281E;
+    max-width: 518px;
+    width: 100%;
+    font-family: Ramaraja;
+    font-size: 54px;
+    font-style: normal;
+    font-weight: 518;
+   
 }
 .main-info {
     color: #544837;
