@@ -24,6 +24,22 @@ body {
 
 }
 .main-btn {
+    width: 93px;
+    height: 23px;
+    margin-top: 50px;
+    margin-left: 200px;
+    border-radius: 6px;
+    background-color: #FF9900;
+    color: #FFF;
+    text-align: center;
+    -webkit-text-stroke-width: 1;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 93px;
+    line-height: 24px; 
+    letter-spacing: 0.32px;
+    border: none;
 
 }
 .main-img {
