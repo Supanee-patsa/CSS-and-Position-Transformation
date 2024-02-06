@@ -1,4 +1,41 @@
 body {
+    font-family: "Poppins",sans-serif;
+    font-size: 16px;
+    color: #333;
+}
+.nav {
+    color: #2F281F;
+    display: inline-flex;
+    font-style: normal;
+    font-size: 14px;
+    font-weight: 400;
+    text-align: center;
+    list-style: none;
+    justify-content: flex-start;
+    margin-top: 48px;
+    margin-left: 98px;
+    line-height: 28px;
+    letter-spacing: 0.32px;
+    
+}
+a {
+    text-decoration: none;
+}
+.nav li {
+    margin-left: 38px;
+}
+.sing in {
+    color: #173A56;
+    background-color: #BCD0E5;
+    margin-left: 200px;
+    
+}
+.sing up {
+    color: #ffffff;
+    background-color: #ff9900;
+}
+
+body {
     background-color: #F2F2F2;
 
 }
