@@ -127,6 +127,9 @@ section {
     margin-left: 147px;
 }
 
+.h1 {
+    text-align: center;
+}
 .feature-title {
     color: #2F281E;
     font-style: normal;
@@ -138,6 +141,7 @@ section {
     margin-bottom: 50px;
     line-height: auto;
     letter-spacing: 0px;
+    text-align: center;
 }
 
 .feature-card {
@@ -187,7 +191,7 @@ section {
     justify-content: center;  
    }
   
-   
+
    .reverse {
     flex-direction: row-reverse;
    }
