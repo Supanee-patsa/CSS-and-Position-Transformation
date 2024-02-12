@@ -106,7 +106,13 @@ body {
 }
 .main-img {
     display: inline-flex;
-    width: 605px
+    width: 605px;
+    height: 496;
+    margin-top: 211px;
+    margin-right: 60px;
+    margin-left: 19px;
+    align-items: flex-start;
+    
 }
 
 section {
@@ -192,8 +198,8 @@ section {
     display: flex;
     margin-top: 99px;
     margin: 0 auto;
-    align-items: center
-    
+    align-items: center;
+
   } 
   
   .effortless-title {
