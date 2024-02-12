@@ -107,14 +107,6 @@ body {
 .main-img {
     display: inline-flex;
     width: 605px
-    height: 496px
-    margin-top: 211px;
-    margin-right: 60px;
-    margin-left: 19px;
-    aling-item: flex-start;
-   
-
-
 }
 
 section {
@@ -201,9 +193,7 @@ section {
     margin-top: 99px;
     margin: 0 auto;
     align-items: center
-    justify-content: flex-start;
     
-  
   } 
   
   .effortless-title {
