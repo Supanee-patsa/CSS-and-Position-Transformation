@@ -24,6 +24,7 @@ header {
   padding-top: 30px;
   box-sizing: border-box;
   justify-content: space-between;
+  
 
 }
 
@@ -40,6 +41,7 @@ header {
     margin-left: 98px;
     line-height: 28px;
     letter-spacing: 0.32px;
+    
     
 }
 a:hover {
